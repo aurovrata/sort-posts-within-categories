@@ -31,38 +31,12 @@ It works with a selected category, each category can have different order of sam
 
 == Changelog ==
 
-= 1.2 = 
+= 1.0 = 
+* added filter to modify admin post query
 * cleaned up, included better messages to ensure settings are saved after activation, else order menu is not shown
 * fixed a small bug
-
-= 1.1.7 = 
 * Bug fix to allow plugin to work with WP multisite network installation.
 * enable editor role access to re-order menu
 * fixed some languages translation issues
-
-= 1.1.6 =
 * Important bug fix (See http://wordpress.org/support/topic/updating-a-post-removes-it-from-the-custom-order). Thanks to Faison for this fix
 
-= 1.1.5 =
-* Add DE_de language
-
-= 1.1.4 =
-* Correct minor bug
-
-= 1.1.3 =
-* Add spanish translations. Special thanks to David Bravo for this !
-
-= 1.1.2 =
-* Add a plugin URI
-
-= 1.1.1 =
-* Bug Correction when a post is saving
-
-= 1.1 =
-* Change version number
-
-= 1.0 =
-* Minor Correction
-
-= 0.1 =
-* First commit; Initial version
