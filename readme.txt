@@ -1,4 +1,6 @@
-=== Plugin Name ===
+=== Sort Posts within Categories ===
+Contributors: Aurovrata V., Aurelien Chappard
+Donate link: http://syllogic.in
 Tags: sort, manual sorting, order, reorder, re order, order by category,order custom post type, order by categories, order category, order categories, order by taxonomy, order by taxonomies
 Requires at least: 3.4
 Tested up to: 4.4
